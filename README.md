@@ -5,5 +5,7 @@
 ![image](https://github.com/user-attachments/assets/5ddd2faa-aaf5-4084-8f87-003da6d2e145)
 
 Примечание: URL ссылка не выставлена, поэтому будет выводиться ошибка в консоль
+
 В проекте используются плагины: Newtonsoft JSON, Naughty Attributes, UniTask
+
 Время, затраченное на проект: 30-60 минут
